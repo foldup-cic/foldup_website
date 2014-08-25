@@ -1,0 +1,331 @@
+xxxxxx Aug 21st going through Thumbprint past projects, just finsihed Urban Music Theatre
+xxxxxx Aug 19th going through Thumbprint past projects, just finsihed Thumbprint Archive London General
+xxxxxx July 30th 4.44pm going through Thumbprint past projects, got as far as future sonic
+
+
+
+
+menustarts
+cat augmented_reality image_recognition asmbly_2013 museums art_galleries games game-like mobile_phones children_families
+year 2013 
+proj Image Recognition in Museums
+menuends
+Image Recognition in Museums
+ENDS
+
+menustarts
+cat thumbprint texting participation feedback reviews
+year 2008
+proj Urban Music Theatre
+menuends
+Urban Music Theatre
+ENDS
+
+
+menustarts
+cat thumbprint texting location place participation
+year 2008
+proj Thumbprint Shipley
+menuends
+//title here//
+// description here, must put in </p>
+ENDS
+
+menustarts
+cat thumbprint texting location place participation
+year 2009
+proj Seen
+menuends
+Thumbprint Seen
+ENDS
+
+
+menustarts
+cat thumbprint texting location place participation reviews
+year 2008
+proj Not Part Of reviews
+menuends
+Not Part Of reviews
+ENDS
+
+
+menustarts
+cat thumbprint texting location place participation consultation bradford manningham_library young_people
+year 2008
+proj Manningham Library consultation
+menuends
+proj Manningham Library consultation
+ENDS
+
+
+menustarts
+cat thumbprint texting location place participation manchester east_manchester refugees asylum_seekers 
+year 2008
+proj Rainbow Haven texting
+menuends
+Rainbow Haven texting
+ENDS
+
+menustarts
+cat thumbprint texting location place participation manchester pervasive_games location_based_games free_all_monsters creative_writing games game-like children_families
+year 2007
+proj Free Manchester's Monsters
+menuends
+Free Manchester's Monsters
+ENDS
+
+menustarts
+cat thumbprint texting location place participation london pervasive_games location_based_games free_all_monsters creative_writing games game-like children_families
+year 2008
+proj Free London's Monsters
+menuends
+Free London's Monsters
+ENDS
+
+menustarts
+cat thumbprint texting location place participation london vic_keegan shakespeare audio_tours audio walking_tours walking history 
+year 2009
+proj Walking with Shakespeare
+menuends
+Walking with Shakespeare
+ENDS
+
+menustarts
+cat participation consultation rossendale irwell_sculpture_trail monster_spotting augmented_reality pervasive_games location_based_games free_all_monsters mixed_reality bacup
+year 2010
+proj Free All Monsters Irwell Sculpture Trail 1
+menuends
+Free All Monsters Irwell Sculpture Trail 1
+ENDS
+
+
+menustarts
+cat texting thumbprint participation consultation rossendale irwell_sculpture_trail 
+year 2010
+proj Irwell Sculpture Trail consultation
+menuends
+Irwell Sculpture Trail consultation
+ENDS
+
+menustarts
+cat bbc bbc_learning manchester jo_claessens hackspaces craft makers augmented_reality rfid research open_access_learning_spaces
+year 2012
+proj BBC Learning research: maker culture
+menuends
+BBC Learning research: maker culture
+ENDS
+
+xxxxxxxxxxxx
+
+menustarts
+cat texting participation london battersea sms creative_writing
+year 2010
+proj Battersea Poems
+menuends
+Battersea Poems
+ENDS
+
+
+menustarts
+cat texting thumbprint participation green_rooms_manchester larkin_about battersea_arts_centre public_space creative_writing sms
+year 2011
+proj Hundred Things 
+menuends
+Hundred Things 
+ENDS
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+menustarts
+cat texting micro_blogging participation public_transport bus_stops public_space sms cities 
+year 2007
+proj Where Were You Happiest to Arrive
+menuends
+Where Were You Happiest to Arrive
+ENDS
+
+menustarts
+cat futuresonic future_everything manchester texting micro_blogging public_space smart_cities 
+year 2009
+proj Futuresonic Thumbprint 
+menuends
+Futuresonic Thumbprint 
+ENDS
+
+
+menustarts
+cat bbc_learning manchester jo_claessens texting leeds huddersfield london aylesbury_estate participation participatory budgeting micro_blogging thumbprint_cooperative mental_health mobile_messaging voluntary_sector coordination platforms 
+year ongoing 
+proj Thumbprint City
+menuends
+Thumbprint City
+ENDS
+
+
+menustarts
+cat bbc bbc_learning manchester jo_claessens hackspaces craft makers augmented_reality rfid research open_access_learning_spaces
+year 2012
+proj BBC Learning research
+menuends
+BBC Learning research
+ENDS
+
+menustarts
+cat biology arts_science_collaboration leeds superposition
+year ongoing 
+proj bioLeeds
+menuends
+bioLeeds
+ENDS
+
+
+menustarts
+cat sms texting young_foundation neighbourhoods activistsms thumbprint_cooperative 
+year 2011
+proj ActivistSMS
+menuends
+ActivistSMS
+ENDS
+
+menustarts
+cat publishing zines paper printed_paper portable_technology writing comics sms texting alison_mealey text_messages participation illustration 
+year 2010
+proj Foldup Comic
+menuends
+Foldup Comic
+
+ENDS
+
+
+menustarts
+cat publishing zines paper printed_paper portable_technology local_democracy writing
+year 2011
+proj Any Plan Will Do
+menuends
+Any Plan Will Do
+
+ENDS
+
+menustarts
+cat publishing zines paper printed_paper portable_technology local_democracy writing
+year 2011
+proj Shared Spaces
+menuends
+Shared Spaces
+
+ENDS
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+menustarts
+cat sms texting cumbria participation 
+year 2011
+proj Secret Life of cumbria
+menuends
+Secret Life of cumbria
+
+ENDS
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+menustarts
+cat film digital_video screenings motion_graphics short_films leeds huddersfield sheffield york hull
+year 1999-2007
+proj Short Circuits
+menuends
+Short Circuits
+
+ENDS
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+menustarts
+cat sms texting dance fenland participation photography martin_figura young_people teenagers 
+year 2002
+proj G8WAY
+menuends
+G8WAY
+
+ENDS
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+menustarts
+cat sms texting text_messages poetry writing 
+year 2002
+proj Onesixty
+menuends
+Onesixty
+ENDS
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+menustarts
+cat sms cities participation
+year 2003
+proj City Poems
+menuends
+City Poems 
+ENDS
+
+
+About
+I organise stuff. </p> I started orgnising unique stuff around 2000, beginning by using mobile technology for creative participation, which I still do a lot of.</p> In 2001 I designed the Guardian's text message poetry competition, which had 7000 entries in two weeks, and attracted worldwide media coverage. In 2003, City Poems project was among the first wave of artworks to explore everyday mobile communications technology, the city, public space and creative participation. City Poems was commended in the British Interactive Media Awards and adapted by Antwerp World Book Capital in 2004. </p>
+
+Between 2003 and 2010 I was co-director of Blink, an art and technology organisation that established a track record of being the among the first to find creative uses for new features of consumer mobile technology, including camera phones in 2004, mobile video in 2004 with a commissioning scheme for young film-makers in England and Scotland called Pocket Shorts, and bluetooth sharing in 2005 (presented at the Edinburgh and Rotterdam film festivals, Tate Britain and touring). Between 1999 and 2008 I ran regular short film screenings at non-cinema venues in five cities across the Yorkshire region and, funded by the regional screen agency, Blink commissioned more than 50 micro budget short films, almost all of which went on to festival screenings in the UK and internationally.</p>
+
+In 2006 I began experimenting with RFID/NFC (the technology used in Oyster cards) to explore how &quot;smart city&quot; infrastructure could be hacked to turn the built environment and public space into a space for games and storytelling. The third of these projects, Five Trees Forest, using NFC enabled mobile phones, won a Yorkshire Digital Award in 2009 and was presented at the Children's Media Festival in Sheffield and the Sheffield Literature Festival.</p>
+
+From 2009 to 2012 I developed Free All Monsters! a worldwide mobile phone Augmented Reality game for families based on the Free Manchester's Monsters! text message game, in collaboration with Dr Paul Coulton of the School of Computing at Lancaster University. I've co-authored papers for conferences including HCI 2010: 'Play is a Serious Business'; Digital Games Research Association 2011 and Advances in Computer Entertainment 2011. I've participated in workshops on pervasive computing and mobile devices at international computer science conferences, and in 2004 I was the ACE/AHRC Arts and Sciences Research Fellow in the School of Biology at Newcastle University, exploring portable technology and the science of co-operation. </p>
+
+I'm trying to work out a socially engaged arts practice that recognises playful innovation with technology, the value of  small enterprises, and a concern with the process of adoption of technology by participants and organisations. As a structure to enable this socially engaged practice, in 2010 I founded Thumbprint Co-operative, and I've worked with large organisations including the BBC, Greater Manchester Police and Kirklees Council as well as local councillors, front line council staff, third sector organisations including a drugs treatment agency and an arts and mental health charity, and small voluntary groups such as a tenants and residents association and a community allotment. Part of this work has been in partnerships supported by funding from NESTA through three of its national programmes, Reboot Britain, Make It Local and Innovation in Giving. </p>
+
+I initiated and organise Hannah festival and directory, a celebration of great stuff happening in places in England's north. The first edition, in 2013, and raised its modest budget through a successful Kickstarter crowdfunding campaign.  </p>
+
+I'm director of Foldup, a Community Interest Company using all sorts of technology to tell handmade stories, and a board member of The Poetry Business, one of the best respected independent poetry publishers in the UK. I've written a book of poetry called Text Messages - you'll have noticed a bit of a theme by now! - that was discussed on Radio 4's Today programme and in The Observer.</p>
+
+Before 2000 I didn't get myself organised to do much, but I did work as an editorial assistant at the Poetry Business, and I wrote a 90 minute radio play broadcast on BBC Radio 4. I also worked in call centres, and briefly as a cleaner, a gardener, and a postman.</p>
+<em>July 30th 2014</em>
+ENDS
+
+
+Contact
+By email: <b>wilsonandyb</b> [<em>@ symbol</em>] <b>gmail</b> [<em>a dot</em>] <b>com</b> </p>
+By phone: <b>07980 224 927</b> </p> This is what I look like, while spinning.
+ENDS
+
+menustarts
+cat sms india international
+year 2006
+proj Bus Stop Poems
+menuends
+Bus Stop Poems
+
+ENDS
+
+menustarts
+cat sms india international
+year 2003
+proj Anywhere Blogs
+menuends
+Anywhere Blogs
+
+ENDS
+
+menustarts
+cat rfid museums tablets
+year 2006
+proj genie
+menuends
+Genie
+
+ENDS
+
+
